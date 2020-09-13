@@ -1,0 +1,24 @@
+{
+  "name": "testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "exceljs": "^4.1.1",
+    "google-spreadsheet": "^3.0.11",
+    "googleapis": "^39.2.0",
+    "json2xls": "^0.1.2",
+    "mysql": "^2.18.1",
+    "mysql2-async": "^1.0.9",
+    "mysql2-promise": "^0.1.4",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "xlsx": "^0.16.4"
+  }
+}
